@@ -1,8 +1,8 @@
 ## Anthony Hunt
 
-Independent consultant, applied agentic AI — multi-agent systems that run in production, not in a notebook. Based in southwest France, working remotely.
+Applied agentic AI — multi-agent systems that run in production, not in a notebook. Five years building and deploying AI-agent and immersive systems; **Laval Virtual 2025 award** (Enterprise & Productivity Solutions), four peer-reviewed publications, two years of doctoral research in XR at the University of York. British and French, based in southwest France, working remotely.
 
-I build and operate the systems below. They are live; the links open the running thing, not a video of it.
+I build and operate the systems below. The links open the running thing, not a video of it.
 
 ### Work
 
@@ -16,10 +16,18 @@ I build and operate the systems below. They are live; the links open the running
 **[Supply map simulator](https://github.com/anthohunt/supply-map-simulator)** — a Physical Internet freight network designer.
 → live at [supply-map-simulator.vercel.app](https://supply-map-simulator.vercel.app)
 
+### Background
+
+Research engineer since 2024: production LLM multi-agent systems used across several research teams, an AI teaching assistant operating inside virtual reality, and contributions to POD — the AI + VR system for organisational performance that won at Laval Virtual 2025.
+
+Before that, R&D on MINERVA at the University of York (AudioLab × BBC R&D): networked music performance in VR, including a virtual twin of BBC Maida Vale Studio 4 with performer avatars for remote musicians, later realised at the UK's CoSTAR Live Lab. Four peer-reviewed articles on XR, immersive audio and presence.
+
+I also design and teach agentic-AI and XR courses at Master's level for international cohorts.
+
 ### What I take on
 
 Short, bounded engagements, remote: an audit of what an agentic system can realistically do for you, an architecture review, a working prototype. One to three days, a fixed price, a deliverable you keep.
 
 The source of the products above is private, and those repositories say so plainly — they document the architecture and the decisions behind it. I am happy to go through any of it in detail.
 
-📧 [anthony.hunt@yahoo.fr](mailto:anthony.hunt@yahoo.fr)
+📧 [anthony.hunt@yahoo.fr](mailto:anthony.hunt@yahoo.fr) · [LinkedIn](https://www.linkedin.com/in/anthony-hunt-3948a9196/)

@@ -11,7 +11,9 @@ I build and operate the systems below. The links open the running thing, not a v
 
 **[Meeting agent](https://github.com/anthohunt/meeting-agent)** — a live meeting tool: speaker-attributed transcript, minutes written during the meeting rather than after it, diagrams drawn on their own, and a room that can correct any line with the guarantee the agent will not overwrite it. Its speaker identification was fixed by reproducing the failure on a public corpus with ground truth and comparing four models, not by buying a bigger one.
 
-**[Chorus Comedy Life](https://github.com/anthohunt/chorus-comedy-life)** — the web sound desk that runs a musical. Someone else operates it live in front of an audience every week, which sets every constraint in it.
+### Built for a non-profit
+
+**[Chorus Comedy Life](https://github.com/anthohunt/chorus-comedy-life)** — the web sound desk that runs a musical, built and operated for an amateur theatre company. Someone else drives it live in front of an audience every week, which sets every constraint in it.
 
 ### Background
 

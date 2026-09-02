@@ -13,9 +13,6 @@ I build and operate the systems below. The links open the running thing, not a v
 
 **[Chorus Comedy Life](https://github.com/anthohunt/chorus-comedy-life)** — the web sound desk that runs a musical. Someone else operates it live in front of an audience every week, which sets every constraint in it.
 
-**[Supply map simulator](https://github.com/anthohunt/supply-map-simulator)** — a Physical Internet freight network designer.
-→ live at [supply-map-simulator.vercel.app](https://supply-map-simulator.vercel.app)
-
 ### Background
 
 Research engineer since 2024: production LLM multi-agent systems used across several research teams, an AI teaching assistant operating inside virtual reality, and contributions to POD — the AI + VR system for organisational performance that won at Laval Virtual 2025.

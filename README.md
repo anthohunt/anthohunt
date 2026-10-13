@@ -6,6 +6,8 @@ I build and operate the systems below. The links open the running thing, not a v
 
 ### Work
 
+**[La Boucle](https://github.com/anthohunt/la-boucle)** — an autonomous research environment for training specialised agents. A human defines the decision and the success criteria; researcher agents experiment, evaluate and improve a small local model until it meets the targets on a sealed benchmark it never sees during training. Presented to the supply-chain leadership of a Fortune 50 technology company through a Georgia Tech executive briefing programme.
+
 **[Constellation](https://github.com/anthohunt/constellation)** — an autonomous market-intelligence pipeline. Around ninety agents research a subject, verify each other's findings, and publish a navigable map that learns what its reader considers worth their time. Every stage is admitted to the next by a deterministic validator rather than by an agent claiming to be finished.
 → live at [constellation.ingevision.cloud](https://constellation.ingevision.cloud)
 

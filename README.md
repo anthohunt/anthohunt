@@ -11,6 +11,8 @@ I build and operate the systems below. The links open the running thing, not a v
 **[Constellation](https://github.com/anthohunt/constellation)** — an autonomous market-intelligence pipeline. Around ninety agents research a subject, verify each other's findings, and publish a navigable map that learns what its reader considers worth their time. Every stage is admitted to the next by a deterministic validator rather than by an agent claiming to be finished.
 → live at [constellation.ingevision.cloud](https://constellation.ingevision.cloud)
 
+**[Web App Pipeline](https://github.com/anthohunt/web-app-pipeline)** — a pipeline of AI agents that designs, builds, tests and deploys web applications: an idea goes in, a live application comes out with its mockup, user stories, automated tests and walkthrough. Two applications delivered in public, from 4 hours to 4 days each.
+
 **[Meeting agent](https://github.com/anthohunt/meeting-agent)** — a live meeting tool: speaker-attributed transcript, minutes written during the meeting rather than after it, diagrams drawn on their own, and a room that can correct any line with the guarantee the agent will not overwrite it. Its speaker identification was fixed by reproducing the failure on a public corpus with ground truth and comparing four models, not by buying a bigger one.
 
 ### Built for a non-profit

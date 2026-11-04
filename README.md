@@ -2,7 +2,7 @@
 
 Applied agentic AI — multi-agent systems that run in production, not in a notebook. Five years building and deploying AI-agent and immersive systems; **Laval Virtual 2025 award** (Enterprise & Productivity Solutions), four peer-reviewed publications, two years of doctoral research in XR at the University of York. British and French, based in southwest France, working remotely.
 
-I build and operate the systems below. The links open the running thing, not a video of it.
+Site: [ingevision.cloud](https://ingevision.cloud). I build and operate the systems below. The links open the running thing, not a video of it.
 
 ### Work
 

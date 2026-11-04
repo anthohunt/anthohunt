@@ -31,6 +31,6 @@ I also design and teach agentic-AI and XR courses at Master's level for internat
 
 Short, bounded engagements, remote: an audit of what an agentic system can realistically do for you, an architecture review, a working prototype. One to three days, a fixed price, a deliverable you keep.
 
-The source of the products above is private, and those repositories say so plainly — they document the architecture and the decisions behind it. I am happy to go through any of it in detail.
+La Boucle, Constellation, Web App Pipeline, Flux and Chorus Comedy Life are open source (Apache 2.0). The source of Meeting agent and the other showcase repositories is private; they document the architecture and the decisions behind it. I am happy to go through any of it in detail.
 
 📧 [anthony.hunt@yahoo.fr](mailto:anthony.hunt@yahoo.fr) · [LinkedIn](https://www.linkedin.com/in/anthony-hunt-3948a9196/)

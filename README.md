@@ -1,14 +1,14 @@
 ## Anthony Hunt
 
-Applied agentic AI — multi-agent systems that run in production, not in a notebook. Five years building and deploying AI-agent and immersive systems; **Laval Virtual 2025 award** (Enterprise & Productivity Solutions), four peer-reviewed publications, two years of doctoral research in XR at the University of York. British and French, based in southwest France, working remotely.
+Research Engineer, IMT Mines Albi. Applied agentic AI — multi-agent systems that run in production, not in a notebook. Five years building and deploying AI-agent and immersive systems; **Laval Virtual 2025 award** (Enterprise & Productivity Solutions), four peer-reviewed publications, two years of doctoral research in XR at the University of York. British and French, based in Albi, France. Independent AI consulting alongside.
 
-Site: [ingevision.cloud](https://ingevision.cloud). I build and operate the systems below. The links open the running thing, not a video of it.
+Site: [ingevision.cloud](https://ingevision.cloud/?lang=en). I build and operate the systems below. Each project below links to its repository or live version.
 
 ### Work
 
-**[La Boucle](https://github.com/anthohunt/la-boucle-methode)** — an autonomous research environment for training specialised agents. A human defines the decision and the success criteria; researcher agents experiment, evaluate and improve a small local model until it meets the targets on a sealed benchmark it never sees during training. Presented to the supply-chain leadership of a large technology company through an executive briefing programme.
+**[La boucle](https://github.com/anthohunt/la-boucle-engine)** — an autonomous research environment for training specialised agents. A human defines the decision and the success criteria; researcher agents experiment, evaluate and improve a small local model until it meets the targets on a sealed benchmark it never sees during training. Presented to the supply-chain leadership of a large technology company through an executive briefing programme.
 
-**[Constellation](https://github.com/anthohunt/constellation)** — an autonomous market-intelligence pipeline. Around ninety agents research a subject, verify each other's findings, and publish a navigable map that learns what its reader considers worth their time. Every stage is admitted to the next by a deterministic validator rather than by an agent claiming to be finished.
+**[Constellation](https://github.com/anthohunt/constellation)** — an autonomous intelligence-watch pipeline. Around ninety agents research a subject, verify each other's findings, and publish a navigable map that learns what its reader considers worth their time. Every stage is admitted to the next by a deterministic validator rather than by an agent claiming to be finished.
 → live at [constellation.ingevision.cloud](https://constellation.ingevision.cloud)
 
 **[Web App Pipeline](https://github.com/anthohunt/webapp-pipeline)** — a pipeline of AI agents that designs, builds, tests and deploys web applications: an idea goes in, a live application comes out with its mockup, user stories, automated tests and walkthrough. Two applications delivered in public, from 4 hours to 4 days each.
@@ -21,16 +21,16 @@ Site: [ingevision.cloud](https://ingevision.cloud). I build and operate the syst
 
 ### Background
 
-Research engineer since 2024: production LLM multi-agent systems used across several research teams, an AI teaching assistant operating inside virtual reality, and contributions to POD — the AI + VR system for organisational performance that won at Laval Virtual 2025.
+Research Engineer at IMT Mines Albi since April 2024: production LLM multi-agent systems used across several research teams, an AI teaching assistant operating inside virtual reality, and contributions to POD — the AI + VR system for organisational performance that won at Laval Virtual 2025.
 
 Before that, R&D on MINERVA at the University of York (AudioLab × BBC R&D): networked music performance in VR, including a virtual twin of BBC Maida Vale Studio 4 with performer avatars for remote musicians, later realised at the UK's CoSTAR Live Lab. Four peer-reviewed articles on XR, immersive audio and presence.
 
 I also design and teach agentic-AI and XR courses at Master's level for international cohorts.
 
-### What I take on
+### Independent AI consulting
 
-Short, bounded engagements, remote: an audit of what an agentic system can realistically do for you, an architecture review, a working prototype. One to three days, a fixed price, a deliverable you keep.
+On my own time and with my own means, remote: expert advice on what an agentic system can realistically do for you, and architecture reviews.
 
-La Boucle, Constellation, Web App Pipeline, Flux and Chorus Comedy Life are open source (Apache 2.0). The source of Meeting agent and the other showcase repositories is private; they document the architecture and the decisions behind it. I am happy to go through any of it in detail.
+La boucle, Constellation, Web App Pipeline, Flux and Chorus Comedy Life are open source (Apache 2.0). The source of Meeting agent and the other showcase repositories is private; they document the architecture and the decisions behind it. I am happy to go through any of it in detail.
 
-📧 [anthony@ingevision.cloud](mailto:anthony@ingevision.cloud) · [LinkedIn](https://www.linkedin.com/in/anthony-hunt-3948a9196/)
+[ingevision.cloud](https://ingevision.cloud/?lang=en) · [LinkedIn](https://www.linkedin.com/in/anthony-hunt-3948a9196) · [CV](https://ingevision.cloud/cv/Anthony_Hunt_CV.pdf) · [anthony@ingevision.cloud](mailto:anthony@ingevision.cloud)
